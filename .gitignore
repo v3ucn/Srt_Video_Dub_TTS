@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+*.DS_Store
+*__pycache__
+*.spec
+*.bin
+/py311
